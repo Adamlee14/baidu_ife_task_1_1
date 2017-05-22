@@ -1,2 +1,0 @@
-# baidu_ife_task_1_1
-baidu_ife_task_1_1
